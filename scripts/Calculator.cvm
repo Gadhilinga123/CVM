@@ -1,0 +1,5 @@
+input(x);
+input(y);
+
+let z=x*y;
+print(z);

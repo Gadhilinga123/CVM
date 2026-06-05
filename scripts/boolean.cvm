@@ -1,0 +1,9 @@
+input(x);
+input(y);
+
+if(x==y) {
+print(y-x);
+}
+else {
+print(x);
+}
